@@ -609,7 +609,7 @@ section {
   font-size: 32px;
   color: #d43076;
   line-height: 0;
-  margin-right: 15px;
+  padding-left: 20px !important;
 }
 
 .contact .info p {
